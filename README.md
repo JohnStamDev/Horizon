@@ -6,3 +6,14 @@
 5. Change connection string on the web config file
 6. Run update-database command on repositories project
 7. Run the project
+
+To login with Admin user use:
+username: admin@hotmail.com
+password: !23admiN
+
+All employee logins have the same username and password, which can be found at the Employee tab.
+For example:
+
+Employee login:
+username: Beauvoir
+password: Beauvoir
