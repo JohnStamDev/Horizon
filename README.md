@@ -1,4 +1,4 @@
-# Horizon
+### Horizon ###
 
 # ERP Bootcamp Team Project
 Allows you to add your company with all employees which gives them each employee their personal login credentials.
@@ -8,21 +8,22 @@ Multiple Interactive statistic charts that show Company, Employee Payment and Em
 Interactive Request tab that allows inapp communication with admin and all employees.
 Easy Payment creation / distribution for the Admin and Employee view, as well as, Payslip printing / exporting as .pdf document.
 
-# Languages and technologies used:
-C#
-Javascript
-Asp.Net MVC
-Entity Framework 6.0
-Identity Framework
-LinQ
-MS SQL Server
-Bootstrap
-FullCalendar
-Chart.js
-Stripe
-
 # Screenshots with Admin and Employee Views at the link below:
 https://www.dropbox.com/sh/djigo3qdvlulxmx/AABiQHFl6-TnT00gwdiWvqnXa?dl=0
+
+# Languages and technologies used:
+- C#
+- Javascript
+- HTML/CSS
+- Asp.Net MVC
+- Entity Framework 6.0
+- Identity Framework
+- LinQ
+- MS SQL Server
+- Bootstrap
+- FullCalendar
+- Chart.js
+- Stripe
 
 # How to install
 1. Clone repository from https://github.com/JohnStamDev/Horizon link or download the zip file
